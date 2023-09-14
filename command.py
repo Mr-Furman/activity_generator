@@ -2,7 +2,6 @@ import argparse
 
 from data_fetcher import BoredAPIFetcher
 from db_lite.database_sqllite import FetcherDB
-
 # If you use POSTGRES 'from db_postgres.database_postgres import FetcherDB'
 
 
